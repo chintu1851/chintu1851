@@ -1,24 +1,23 @@
 <h1 align="center">Hello, World! I'm Chintan Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4B9CD3&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Web+Developer;Always+Learning;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4B9CD3&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer;Tech+Explorer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me:
-
-- 🌍 Based in **Canada**
-- 💻 Passionate about **Full Stack Development**, **Mobile App Development**, **Software Developer**, and **Problem Solving**
-- 📚 Constantly exploring new technologies and frameworks
-- 🚀 Focused on mastering **ReactJS**, **NodeJS**, **MongoDB**, and **AWS**
+- 🌍 **Based in Canada**
+- 💻 Passionate about **Full Stack Development**, **Mobile App Development**, and **Software Engineering**
+- 🚀 Always exploring new **technologies** and **frameworks** to improve and expand my skills
+- 🌱 Currently mastering **ReactJS**, **NodeJS**, **MongoDB**, and **AWS**
+- 🎯 **Problem-solving** is my passion—focusing on algorithms and data structures
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pchintan71/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=portfolio)]([https://[yourportfolio.com](https://chintanportfolio.vercel.app/](https://chintanportfolio.vercel.app/home.html)))
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/chintu1851)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/Chintan1851/)
 
@@ -42,10 +41,10 @@
 ---
 
 ### 🏆 Achievements:
-
-- 🏅 Solved **400+ DSA** challenges on **LeetCode**
+- 🏅 Solved **400+ DSA challenges** on **LeetCode**
 - 🎓 Earned **5-star JavaScript badge** on **HackerRank**
 - 👨‍💻 Contributed to **open-source** projects focusing on **React** and **Node.js**
+- 💡 Continuously learning new frameworks and contributing to tech communities
 
 ---
 
@@ -61,5 +60,7 @@
 
 - 💬 Let's talk about **web development**, **mobile apps**, or your **next big idea**!
 - 📧 **Email**: [patelchintan1851@gmail.com](mailto:patelchintan1851@gmail.com)
+- 🚀 **Portfolio**: [Chintan's Portfolio](https://chintanportfolio.vercel.app/)
 
 ---
+
