@@ -18,9 +18,9 @@
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pchintan71/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=portfolio)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/pchintan71)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/chintanpatel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=portfolio)](https://[yourportfolio.com](https://chintanportfolio.vercel.app/))
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/chintu1851)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/Chintan1851/)
 
 ---
 
@@ -52,7 +52,7 @@
 ### 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pchintan71&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintu1851&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
