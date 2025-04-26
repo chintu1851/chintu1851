@@ -42,7 +42,6 @@
 
 ### 🏆 Achievements:
 - 🏅 Solved **400+ DSA challenges** on **LeetCode**
-- 🎓 Earned **5-star JavaScript badge** on **HackerRank**
 - 👨‍💻 Contributed to **open-source** projects focusing on **React** and **Node.js**
 - 💡 Continuously learning new frameworks and contributing to tech communities
 
