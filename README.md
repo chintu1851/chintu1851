@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me:
 
-- 🌍 Based in **India**
+- 🌍 Based in **Canada**
 - 💻 Passionate about **Full Stack Development**, **Mobile App Development**, **Software Developer**, and **Problem Solving**
 - 📚 Constantly exploring new technologies and frameworks
 - 🚀 Focused on mastering **ReactJS**, **NodeJS**, **MongoDB**, and **AWS**
